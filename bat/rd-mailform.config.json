@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "author@text-online.kz",
+  "port": 465,
+  "username": "author@text-online.kz",
+  "password": "12345",
+  "recipientEmail": "author@text-online.kz"
+}
